@@ -12,5 +12,5 @@
 
 <img src="screens/portret.jpg" width="250" height="450">
 <img src="screens/noportret.jpg" width="250" height="450">
-<img src="screens/land-portret.jpg" width="250" height="450" class="rightpic">
+<img src="screens/land-portret.jpg" width="250" height="450">
 
