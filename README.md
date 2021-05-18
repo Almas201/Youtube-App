@@ -10,7 +10,4 @@
 
 ## Результаты
 
-![](screens/land-noportet%20.jpg)
-![](screens/land-portet%20.jpg)
-![](screens/noportet%20.jpg)
-![](screens/portet%20.jpg)
+<img src = "screens/land-noportret.jpg" width = 100 height = 100>
