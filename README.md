@@ -11,3 +11,4 @@
 ## Результаты
 
 <img src="screens/portret.jpg" width="250" height="450">
+<img src="screens/noportret.jpg" width="250" height="450">
