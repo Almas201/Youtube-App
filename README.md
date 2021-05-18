@@ -10,4 +10,4 @@
 
 ## Результаты
 
-<img src="screens/land-noportret.jpg" width = "100" height = "10">
+<img src="screens/portret.jpg" width="100" height="10">
