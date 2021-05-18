@@ -10,7 +10,7 @@
 
 ## Результаты
 
-![](screens/land-noportet-small.jpg)
-![](screens/land-portet-small.jpg)
-![](screens/noportet-small.jpg)
-![](screens/portet-small.jpg)
+![](screens/land-noportet%20.jpg)
+![](screens/land-portet%20.jpg)
+![](screens/noportet%20.jpg)
+![](screens/portet%20.jpg)
